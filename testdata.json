@@ -1,0 +1,72 @@
+[
+    {
+        "url": "https://www.amazon.co.jp",
+        "image": "./img/amazon.png",
+        "text": "アマゾン"
+    },
+    {
+        "url": "https://www.youtube.com",
+        "image": "./img/youtube.png",
+        "text": "ユーチューブ"
+    },
+    {
+        "url": "https://www.yahoo.co.jp/",
+        "image": "./img/yahoo.png",
+        "text": "ヤフー"
+    },
+    {
+        "url": "https://github.co.jp/",
+        "image": "./img/GitHub.png",
+        "text": "GitHub"
+    },
+    {
+        "url": "https://www.nicovideo.jp/",
+        "image": "./img/niconico.png",
+        "text": "ニコニコ"
+    },
+    {
+        "url": "https://unity.com/ja",
+        "image": "./img/unity.png",
+        "text": "Unity"
+    },
+    {
+        "url": "https://unity-chan.com/",
+        "image": "./img/unity-chan.png",
+        "text": "Unityちゃん"
+    },
+    {
+        "url": "https://www.minecraft.net/ja-jp",
+        "image": "./img/maincraft.jpg",
+        "text": "maincraft"
+    },
+    {
+        "url": "https://www.blender.org/",
+        "image": "./img/blender.png",
+        "text": "blender"
+    },
+    {
+        "url": "https://www.vocaloid.com/products/show/v4l_hatsune_miku_v4x",
+        "image": "./img/vocaloid.png",
+        "text": "vocaloid-miku"
+    },
+    {
+        "url": "https://www.adobe.com/jp/",
+        "image": "./img/adobe.png",
+        "text": "adobe"
+    },
+    {
+        "url": "https://www.netflix.com/jp/",
+        "image": "./img/netflix.png",
+        "text": "NETFLIX"
+    },
+    {
+        "url": "https://www.google.com/search?q=MMD",
+        "image": "./img/mmd.png",
+        "text": "MMD"
+    },
+    {
+        "url": "https://manjubox.net/ymm4/",
+        "image": "./img/ymm.png",
+        "text": "ゆっくりMovieMaker4"
+    }
+]

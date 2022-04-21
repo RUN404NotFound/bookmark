@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Bookmark</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="header-container">
+            <div class="home"><a href="">home</a></div>
+            <form action="">
+                <div class="search-input">
+                    <input type="search">
+                </div>
+            </form>
+            <ul class="header-list">
+                <li>
+                    <label>
+                        <input type="file" id="file1" name="file" onChange="fileChanged(this)" multiple>file input
+                    </label>
+                </li>
+                <li class="header-item" id="add"><a href="">add</a></li>
+                <li class="header-item" id="delete"><a href="">delete</a></li>
+                <li class="header-item" id="setting"><a href="">setting</a></li>
+            </ul>
+        </div>
+    </header>
+    </header>
+    <main class="main" id="main">
+    </main>
+    <script src="./jsonRead.js"></script>
+</body>
+
+</html>

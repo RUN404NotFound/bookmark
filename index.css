@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+/*CSS 初期化*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+body {
+  background-color: black;
+}
+
+.header-container {
+  background-color: rgb(30, 30, 30);
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+
+.home {
+  color: white;
+  font-size: 30px;
+}
+
+form {
+  margin: auto;
+}
+
+.header-list {
+  display: flex;
+  list-style: none;
+}
+
+.header-item {
+  margin: 0 20px;
+}
+
+main {
+  margin-top: 60px;
+}
+
+.main-container {
+  margin: 1%;
+  width: 97%;
+  padding: 0.5%;
+  border-radius: 10px;
+  display: flex;
+  background: rgb(50, 50, 50);
+  flex-wrap: wrap;
+}
+
+label {
+  color: #ffffff;
+  font-weight: bold;
+  border: solid #ffffff;
+}
+
+input {
+  display: none;
+}
+
+
+.box {
+  margin: 0.5%;
+  margin-bottom: 1.5%;
+  width: 19%;
+  border-radius: 7px;
+}
+
+.element {
+  width: 100%;
+}
+
+img {
+  width: 100%;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+
+.element-title {
+  color: white;
+  background-color: rgb(110, 110, 110);
+  overflow: hidden;
+  height: auto;
+}
+
+a:hover .element-title {
+  height: auto;
+}
