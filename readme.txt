@@ -11,3 +11,6 @@ index.htmlをウェブブラウザで読み込み(chrome推奨)
 file inputボタンをクリック
 動作確認用のtestdata.jsonを読み込む
 ブラウザにリンク一覧が表示されます。
+
+/////
+add, delete, setting 未実装
